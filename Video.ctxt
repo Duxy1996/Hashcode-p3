@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Video(int)
+comment1.params=id\ size
+comment1.target=Video(int,\ int)
+comment2.params=id\ size\ requests
+comment2.target=Video(int,\ int,\ int)
+comment3.params=size
+comment3.target=void\ setSize(int)
+comment4.params=requests
+comment4.target=void\ setRequests(int)
+numComments=5

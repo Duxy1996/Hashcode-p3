@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Endpoint()
+comment1.params=id\ latency
+comment1.target=Endpoint(int,\ int)
+comment2.params=cache
+comment2.target=void\ addCache(Cache)
+comment3.params=video
+comment3.target=void\ addVideo(Video)
+numComments=4
